@@ -45,11 +45,11 @@
   <!-- the name of the Plugin -->
   <name type="plugin">Pagemanager_XH</name>
   <!-- Date this xml-file was updated, yyyy-mm-dd -->
-  <date_update>2023.02.07</date_update>
+  <date_update>2024.08.13</date_update>
   <!-- version of Plugin -->
-  <version>3.7</version>
+  <version>3.8</version>
   <!-- date of publication, yyyy-mm-dd -->
-  <date_version>2023.02.07</date_version>
+  <date_version>2024.08.13</date_version>
   <!-- the name of the programmer -->
   <coder>Christoph M. Becker</coder>
   <!-- Categories must be written in lower case. More than one possible, separated by comma without spaces. -->
@@ -62,7 +62,7 @@
   <url>
     <!-- URL where you can download the plugin -->
     <!-- If there no Download-URL, enter this follows! - <download_url></download_url> -->
-    <download_url>https://github.com/cmb69/pagemanager_xh/releases/3.7</download_url>
+    <download_url>https://github.com/cmsimple-xh/pagemanager_xh/releases/3.8</download_url>
     <!-- URL of the programmer's website -->
     <!-- If there no Website, enter this follows! - <coder_url></coder_url> -->
     <coder_url>https://3-magi.net</coder_url>
@@ -102,7 +102,7 @@
   <!-- , use only .gif, .jpg, .jpeg, .png or .svg! -->
   <!-- The use of this different image formats is dependent on the configuration of the repository. -->
   <!-- If there no logo, enter this follows! - <logo></logo> -->
-  <logo>https://raw.githubusercontent.com/cmb69/pagemanager_xh/master/pagemanager.png</logo>
+  <logo>https://raw.githubusercontent.com/cmsimple-xh/pagemanager_xh/master/pagemanager.png</logo>
 </teplad>
 <!-- Ich versichere, dass ich für alle angegebenen Texte und / oder Bilder die Urheberrechte besitze, oder eine entsprechende Nutzungsgenehmigung vorweisen kann. -->
 <!-- I guarantee, that I have the copyright for all texts and / or pictures, or can show a corresponding permission for their use. -->
