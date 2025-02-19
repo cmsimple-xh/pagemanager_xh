@@ -24,17 +24,17 @@ einmal verschoben werden.
 Pagemanager\_XH ist ein Plugin für CMSimple\_XH ≥ 1.7. Zusätzlich
 benötigt es noch das jQuery4CMSimple und das Fa\_XH Plugin, die in
 allen Standarddownloads von CMSimple\_XH bereits enthalten sind. Es
-benötigt ebenfalls PHP ≥ 5.5.0 mit der JSON Extension.
+benötigt ebenfalls PHP ≥ 7.4.0 mit der JSON Extension.
 
 ## Download
 
-Das [aktuelle Release](https://github.com/cmb69/pagemanager_xh/releases/latest) kann von Github herunter geladen werden.
+Das [aktuelle Release](https://github.com/cmsimple-xh/pagemanager_xh/releases) kann von Github herunter geladen werden.
 
 ## Installation
 
 Die Installation erfolgt wie bei vielen anderen CMSimple\_XH-Plugins
 auch. Im [CMSimple\_XH
-Wiki](https://wiki.cmsimple-xh.org/doku.php/de:installation) finden
+Wiki](https://wiki.cmsimple-xh.org/de/?fuer-anwender/arbeiten-mit-dem-cms/plugins#id3_plugin-installieren) finden
 sie ausführliche Hinweise.
 
 1.  Sichern Sie die Daten auf Ihrem Server.
@@ -185,7 +185,7 @@ Admin-Menü.
 
 ## Fehlerbehebung
 
-Melden Sie Programmfehler und stellen Sie Supportanfragen entweder auf [Github](https://github.com/cmb69/pagemanager_xh/issues)
+Melden Sie Programmfehler und stellen Sie Supportanfragen entweder auf [Github](https://github.com/cmsimple-xh/pagemanager_xh/issues)
 oder im [CMSimple_XH Forum](https://cmsimpleforum.com/).
 
 ## Lizenz
@@ -204,7 +204,8 @@ Sie sollten ein Exemplar der GNU General Public License zusammen mit
 Pagemanager\_XH erhalten haben. Falls nicht, siehe
 <http://www.gnu.org/licenses/>.
 
-© 2011-2021 Christoph M. Becker
+© 2011-2023 Christoph M. Becker
+© 2024 CMSimple_XH developers
 
 Danish Übersetzung © 2011-2014 Jens Maegaard  
 Estnische Übersetzung © 2014 Alo Tanavots  
@@ -228,11 +229,6 @@ Das *proton* Theme für jsTree ist eine leicht angepasste Version des
 [jsTree Bootstrap
 Themes](https://github.com/orangehill/jstree-bootstrap-theme). Danke für
 die Veröffentlichung dieses schönen Themes unter MIT Lizenz.
-
-Dieses Plugin verwendet [Font Awesome von Dave
-Gandy](http://fontawesome.io/). Vielen Dank für die Bereitstellung
-dieses großartigen ikonischen Schriftarten- und CSS-Toolkits unter einer
-GPL freundlichen Lizenz.
 
 Das Plugin-Icon wurde von [Everaldo Coelho](http://www.everaldo.com/)
 entworfen. Vielen Dank für die Veröffentlichung unter GPL.
