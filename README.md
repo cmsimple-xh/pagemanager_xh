@@ -21,19 +21,19 @@ possible to rearrange whole submenus.
 ## Requirements
 
 Pagemanager\_XH is a plugin for CMSimple\_XH ≥ 1.7.0. Additionally it
-requires the jQuery4CMSimple and Fa\_XH plugins, which are already
+requires the jQuery4CMSimple plugin, which are already
 contained in the standard download of CMSimple\_XH. It also requires PHP
-≥ 5.5.0 with the JSON extension.
+≥ 7.4.0 with the JSON extension.
 
 ## Download
 
-The [lastest release](https://github.com/cmb69/pagemanager_xh/releases/latest) is available for download on Github.
+The [lastest release](https://github.com/cmsimple-xh/pagemanager_xh/releases) is available for download on Github.
 
 ## Installation
 
 The installation is done as with many other CMSimple\_XH plugins. See
 the [CMSimple\_XH
-wiki](https://wiki.cmsimple-xh.org/doku.php/installation) for further
+wiki](https://wiki.cmsimple-xh.org/?for-users/working-with-the-cms/plugins#id3_install-plugin) for further
 details.
 
 1.  Backup the data on your server.
@@ -162,7 +162,7 @@ jQuery](https://github.com/jquery/jquery/issues/3676). Either use the
 an alternative admin menu.
 
 ## Troubleshooting
-Report bugs and ask for support either on [Github](https://github.com/cmb69/pagemanager_xh/issues)
+Report bugs and ask for support either on [Github](https://github.com/cmsimple-xh/pagemanager_xh/issues)
 or in the [CMSimple_XH Forum](https://cmsimpleforum.com/).
 
 ## License
@@ -180,7 +180,8 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with Pagemanager\_XH.  If not, see <http://www.gnu.org/licenses/>.
 
-© 2011-2021 Christoph M. Becker
+© 2011-2023 Christoph M. Becker
+© 2011-2023 CMSimple_XH developers
 
 Czech translation © 2011-2014 Josef Němec  
 Danish translation © 2011-2014 Jens Maegaard  
@@ -202,10 +203,6 @@ Many thanks to Holger Irmler, the author of this plugin.
 The *proton* theme for jsTree is a slightly modified version of [jsTree
 Bootstrap Theme](https://github.com/orangehill/jstree-bootstrap-theme).
 Thanks for publishing this nice theme under MIT license.
-
-This plugin uses [Font Awesome by Dave Gandy](http://fontawesome.io/).
-Many thanks for making this great iconic font and CSS toolkit available
-under a GPL friendly license.
 
 The plugin icon is designed by [Everaldo
 Coelho](http://www.everaldo.com/). Many thanks for publishing this icon
