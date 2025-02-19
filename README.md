@@ -21,7 +21,7 @@ possible to rearrange whole submenus.
 ## Requirements
 
 Pagemanager\_XH is a plugin for CMSimple\_XH ≥ 1.7.0. Additionally it
-requires the jQuery4CMSimple plugin, which are already
+requires the jQuery4CMSimple plugin, which is already
 contained in the standard download of CMSimple\_XH. It also requires PHP
 ≥ 7.4.0 with the JSON extension.
 
